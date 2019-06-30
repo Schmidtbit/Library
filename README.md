@@ -11,3 +11,5 @@ s3.meta.client.upload_file('filename', 'mybucket', 'filename')
 
 # Bash Tips
 `git add --all && git commit -m 'minor changes' && git pull && git push`
+
+[This](https://abesamma.github.io/#Automating%20Stuff%20with%20Bash%20scripts) Article on Bash Scripting
