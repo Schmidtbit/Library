@@ -1,4 +1,4 @@
-# How to Deploy a Machine Learning Risk Classification Model with Amazon AWS
+# How to Deploy a Machine Learning Risk Classification Model with AWS
 
 In this article, I am going to walk through a high-level example of how to deploy a machine learning model using Amazon Web Services (AWS). The beauty of using AWS is that all of their services are pay-per-use with extremely competitive rates. For a data scientist just playing around and learning the AWS suite of services, there are many ways to implement model deployment architectures at minimal cost.
 
