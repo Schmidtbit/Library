@@ -1,3 +1,6 @@
+# How to Write an AWS Lambda Handler Script
+
+```
 import requests
 import boto3
 
@@ -11,3 +14,6 @@ def lambda_handler(event, context):
     file_key = 'directory/filename'
     s3.Bucket('bucket_name').put_object(Key=file_key, Body=r.content)
     print('done')
+    
+```
+ 
