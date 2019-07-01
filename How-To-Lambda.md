@@ -16,4 +16,7 @@ def lambda_handler(event, context):
     print('done')
     
 ```
+# How To Create Lambda Function Dependency Packages
+- [Link to AWS Docs.](https://docs.aws.amazon.com/lambda/latest/dg/lambda-python-how-to-create-deployment-package.html#python-package-dependencies)
+
  
